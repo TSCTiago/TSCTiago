@@ -1,5 +1,5 @@
 <div>
-  <h1 align="center">Oi Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/tiago-silva-carvalho-2b6244223/"><i>Tiago</i></a> 😃️</h1>
+  <h1 align="center">Hy bro!! i'm <a href="https://www.linkedin.com/in/tiago-silva-carvalho-2b6244223/"><i>Tiago</i></a> 😃️</h1>
  
 </div>
 
@@ -41,12 +41,9 @@
 
 <div align="center">
   
-  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/TSCTiago/TSCTiago/blob/output/github-contribution-grid-snake.svg)
   
 </div>
 
-<div align="center">
-  <p>Feito com :heart: e JavaScript.</p>
-  <p>Créditos: <a href="https://github.com/anuraghazra/github-readme-stats">Anurag Hazra</a> e <a href="https://github.com/rafaballerini">Rafaella Ballerini</a></p>
-</div>
+
 
