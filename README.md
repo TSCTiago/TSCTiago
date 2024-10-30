@@ -32,11 +32,12 @@
   <a href="mailto:tiagosilvacarvalho7@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-<div align="center">
-
-  ![GitHub Snake](https://raw.githubusercontent.com/TSCTiago/TSCTiago/d2947a0d936282fe76e8d267832606168bc273e5/github-snake-dark.svg) 
- 
-</div>
+![GitHub Snake](https://raw.githubusercontent.com/TSCTiago/TSCTiago/d2947a0d936282fe76e8d267832606168bc273e5/github-snake-dark.svg) 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 
 
 
