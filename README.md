@@ -33,8 +33,8 @@
 </div>
 
 <div align="center">
-  
- ![Snake animation](https://github.com/TSCTiago/TSCTiago/blob/output/github-contribution-grid-snake.svg)
+
+  ![GitHub Snake](https://raw.githubusercontent.com/TSCTiago/TSCTiago/d2947a0d936282fe76e8d267832606168bc273e5/github-snake-dark.svg) 
  
 </div>
 
